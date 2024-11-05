@@ -18,7 +18,7 @@ Installation
 1. Clone this repository:
 `git clone https://github.com/yourusername/url-to-qr-code-generator.git`
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 `cd url-to-qr-code-generator`
 
 3. Install the necessary dependencies:
